@@ -12,6 +12,7 @@
 		9BCE7EA12239B50A00662C94 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9BCE7E9F2239B50A00662C94 /* Main.storyboard */; };
 		9BCE7EA32239B50C00662C94 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9BCE7EA22239B50C00662C94 /* Assets.xcassets */; };
 		9BCE7EA62239B50C00662C94 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9BCE7EA42239B50C00662C94 /* LaunchScreen.storyboard */; };
+		B126ADB22239C4B900C0DEC1 /* no-image-icon-13.png in Resources */ = {isa = PBXBuildFile; fileRef = B126ADB12239C4B900C0DEC1 /* no-image-icon-13.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		9BCE7EA22239B50C00662C94 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9BCE7EA52239B50C00662C94 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9BCE7EA72239B50C00662C94 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B126ADB12239C4B900C0DEC1 /* no-image-icon-13.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "no-image-icon-13.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 		9BCE7E9A2239B50A00662C94 /* SwiftCameraAndGalleryExample */ = {
 			isa = PBXGroup;
 			children = (
+				B126ADB12239C4B900C0DEC1 /* no-image-icon-13.png */,
 				9BCE7E9B2239B50A00662C94 /* AppDelegate.swift */,
 				9BCE7E9D2239B50A00662C94 /* ViewController.swift */,
 				9BCE7E9F2239B50A00662C94 /* Main.storyboard */,
@@ -125,6 +128,7 @@
 				9BCE7EA62239B50C00662C94 /* LaunchScreen.storyboard in Resources */,
 				9BCE7EA32239B50C00662C94 /* Assets.xcassets in Resources */,
 				9BCE7EA12239B50A00662C94 /* Main.storyboard in Resources */,
+				B126ADB22239C4B900C0DEC1 /* no-image-icon-13.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
